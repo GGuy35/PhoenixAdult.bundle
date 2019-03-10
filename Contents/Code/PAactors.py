@@ -25,6 +25,66 @@ class PhoenixActors:
                 skip = True
 
             ##### Replace by actor name; for actors that have different aliases in the industry
+            if "Aali Rousseau" == newActor or "Miranda Milksalot" == newActor:
+                newActor = "Aali Kali"
+            if "Aarolyn Barra" == newActor or "Aralynn Barra" == newActor:
+                newActor = "Aaralyn Barra"
+            if "Ariel Alexis" == newActor or "Arielle Alexis" == newActor:
+                newActor = "Aarielle Alexis"
+            if "Abbey Brookes" == newActor:
+                newActor = "Abbey Brooks"
+            if "Abby Rain" == newActor or "Abby Rains" == newActor:
+                newActor = "Abbey Rain"
+            if "Katie Zane" == newActor:
+                newActor = "Abbie Anderson"
+            if "Abbey Cross" == newActor or "Abbie Cross" == newActor or "Abby Rocks" == newActor:
+                newActor = "Abby Cross"
+            if "Abbey Lee Brazil" == newActor:
+                newActor = "Abby Lee Brazil"
+            if "Abby Taylor" == newActor:
+                newActor = "Abby Skyy"
+            if "Bella Danger" == newActor:
+                newActor = "Abella Danger"
+            if "Abagaile Johnson" == newActor or "Abigale Johnson" == newActor or "Abigiale Johnson" == newActor:
+                newActor = "Abigaile Johnson"
+            if "Abril Gerald" == newActor:
+                newActor = "Abrill Gerald"
+            if "Katie Banks" == newActor:
+                newActor = "Addison Avery"
+            if "Alaura Parker" == newActor or "Alura Parker" == newActor:
+                newActor = "Addison Heart"
+            if "Addison O Riley" == newActor or "Addison O'reilly" == newActor or "Addison Oriley" == newActor:
+                newActor = "Addison O'Riley"
+            if "Adel Asanti" == newActor:
+                newActor = "Adel Asanty"
+            if "Mary Lane" == newActor or "Virgin Adel" == newActor:
+                newActor = "Adel Bye"
+            if "Adell Simons" == newActor:
+                newActor = "Adele Siemens"
+            if "Adel Sunshine" == newActor or "Ava Star" == newActor:
+                newActor = "Adele Sunshine"
+            if "Aida Sweet" == newActor:
+                newActor = "Adia Sweet"
+            if "Adrianna Anelise" == newActor:
+                newActor = "Adriana Anelise"
+            if "Adrienn Kovacs" == newActor:
+                newActor = "Adriana Brill"
+            if "Adriana Chechick" == newActor or "Adrianna Chechick" == newActor or "Adrianna Chechik" == newActor:
+                newActor = "Adriana Chechik"
+            if "Adrianna Deville" == newActor:
+                newActor = "Adriana Deville"
+            if "Adrianna Faust" == newActor:
+                newActor = "Adriana Faust"
+            if "Adrianna Leigh" == newActor:
+                newActor = "Adriana Leigh"
+            if "Adrianna Lema" == newActor:
+                newActor = "Adriana Lema"
+            if "Adrianna Luna" == newActor:
+                newActor = "Adriana Luna"
+            if "Adriana Taylor" == newActor or "Adriana-Malkova" == newActor:
+                newActor = "Adriana Malkova"
+        ##### https://www.indexxx.com/m?l=a&p=4
+
             if "Josephine" == newActor or "Conny" == newActor or "Conny Carter" == newActor or "Connie" == newActor:
                 newActor = "Connie Carter"
             if "Doris Ivy" == newActor:
@@ -55,8 +115,6 @@ class PhoenixActors:
                 newActor = "Lora Craft"
             if newActor == "Amia Moretti":
                 newActor = "Amia Miley"
-            if newActor == "Abby Rains":
-                newActor = "Abbey Rain"
             if newActor == "Charlotte Lee":
                 newActor = "Jaye Summers"
             if newActor == "Grace Hartley":
@@ -75,12 +133,25 @@ class PhoenixActors:
                 newActor = "Nika Noire"
             if "Jessica Blue" == newActor or "Jessica Cute" == newActor:
                 newActor = "Jessica Foxx"
+            if newActor == "Lucie Kline":
+                newActor = "Lucie Cline"
+            if "Vannessa Phoenix" == newActor or "Sally Squirtz" == newActor:
+                newActor = "Sally Squirt"
+            if newActor == "Kaylee Evans":
+                newActor = "AJ Applegate"
+            if "Ajaa Xxx" == newActor or "Demi Dolce" == newActor:
+                newActor = "Demi Sutra"
 
             ##### Replace by site + actor; use when an actor just has an alias or abbreviated name on one site
             if metadata.studio == "21Sextury" and "Abbie" == newActor:
                 newActor = "Krystal Boyd"
             if metadata.studio == "Babes" and "Angelica" == newActor:
                 newActor = "Krystal Boyd"
+            if metadata.studio == "BangBros":
+                if newActor == "Abril":
+                    newActor = "Abril Santamaria"
+                if newActor == "Alektra":
+                    newActor = "Alektra Blue"
             if metadata.studio == "LegalPorno" and "Abby" == newActor:
                 newActor = "Krystal Boyd"
             if metadata.studio == "Joymii":
