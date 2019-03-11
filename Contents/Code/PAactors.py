@@ -83,18 +83,14 @@ class PhoenixActors:
                 newActor = "Adriana Luna"
             if "Adriana Taylor" == newActor or "Adriana-Malkova" == newActor:
                 newActor = "Adriana Malkova"
-        ##### https://www.indexxx.com/m?l=a&p=4
+# https://www.indexxx.com/m?l=a&p=4
 
             if "Anna Hill" == newActor or "Anna Kolarova" == newActor or "Conny Carter" == newActor or "Conny Lior" == newActor:
                 newActor = "Connie Carter"
             if "Doris Ivy" == newActor:
                 newActor = "Gina Gerson"
-#            if "Anjelica" == newActor or "Ebbi" == newActor or "Abby H" == newActor or "Katherine A" == newActor:
-#                newActor = "Krystal Boyd"
 #            if "Nathaly" == newActor or "Nathalie Cherie" == newActor:
 #                newActor = "Nathaly Cherie"
-#            if "Katarina" == newActor:
-#                newActor = "Katerina Hartlova"
             if newActor == "Alex D":
                 newActor = "Alex D."
             if "Crissy Kay" == newActor or "Emma Hicks" == newActor or "Emma Hixx" == newActor:
@@ -144,86 +140,86 @@ class PhoenixActors:
 
             ##### Replace by site + actor; use when an actor just has an alias or abbreviated name on one site
             if metadata.studio == "21Sextury":
-			    if newActor == "Abbie":
+                if newActor == "Abbie":
                     newActor = "Krystal Boyd"
-			    if newActor == "Conny":
+                if newActor == "Conny":
                     newActor = "Connie Carter"
             if metadata.studio == "Babes":
-			    if newActor == "Angelica":
+                if newActor == "Angelica":
                     newActor = "Krystal Boyd"
-			    if newActor == "Ariel":
+                if newActor == "Ariel":
                     newActor = "Ariel Piper Fawn"
-			    if newActor == "Athina":
+                if newActor == "Athina":
                     newActor = "Tyra Moon"
-			    if newActor == "Candy":
+                if newActor == "Candy":
                     newActor = "Candice Brielle"
-			    if newActor == "Caprice":
+                if newActor == "Caprice":
                     newActor = "Little Caprice"
-			    if newActor == "Cara":
+                if newActor == "Cara":
                     newActor = "Cara Mell"
-			    if newActor == "Clover":
+                if newActor == "Clover":
                     newActor = "Katya Clover"
-			    if newActor == "Diore":
+                if newActor == "Diore":
                     newActor = "Dolly Diore"
-			    if newActor == "Embry":
+                if newActor == "Embry":
                     newActor = "Cameron Dee"
-			    if newActor == "Goldie":
+                if newActor == "Goldie":
                     newActor = "Goldie Baby"
-			    if newActor == "Iskra":
+                if newActor == "Iskra":
                     newActor = "Elen Million"
-			    if newActor == "Janice":
+                if newActor == "Janice":
                     newActor = "Janice Griffith"
-			    if newActor == "Kari":
+                if newActor == "Kari":
                     newActor = "Kari Sweet"
-			    if newActor == "Karmen":
+                if newActor == "Karmen":
                     newActor = "Jasmine Andreas"
-			    if newActor == "Katerina":
+                if newActor == "Katerina":
                     newActor = "Katerina Hartlova"
-			    if newActor == "Keira":
+                if newActor == "Keira":
                     newActor = "Keira Albina"
-			    if newActor == "Kirra":
+                if newActor == "Kirra":
                     newActor = "Kira Zen"
-			    if newActor == "Kristal":
+                if newActor == "Kristal":
                     newActor = "Kristall Rush"
-			    if newActor == "Lana":
+                if newActor == "Lana":
                     newActor = "Lana Slader"
-			    if newActor == "Leyla":
+                if newActor == "Leyla":
                     newActor = "Leyla Morgan"
-			    if newActor == "Lili D":
+                if newActor == "Lili D":
                     newActor = "Lilly Peterson"
-			    if newActor == "Lilu U":
+                if newActor == "Lilu U":
                     newActor = "Lilu Moon"
-			    if newActor == "Liona":
+                if newActor == "Liona":
                     newActor = "Liona Levi"
-			    if newActor == "Lorena G":
+                if newActor == "Lorena G":
                     newActor = "Lorena Garcia"
-			    if newActor == "Macy":
+                if newActor == "Macy":
                     newActor = "Macy Ssens"
-			    if newActor == "Maria":
+                if newActor == "Maria":
                     newActor = "Melena Maria Rya"
-			    if newActor == "Michelle":
+                if newActor == "Michelle":
                     newActor = "Red Fox"
-			    if newActor == "Nancy A":
+                if newActor == "Nancy A":
                     newActor = "Nancy Ace"
-			    if newActor == "Nekane":
+                if newActor == "Nekane":
                     newActor = "Nekane Sweet"
-			    if newActor == "Nikki":
+                if newActor == "Nikki":
                     newActor = "Noemi Moon"
-			    if newActor == "Nora":
+                if newActor == "Nora":
                     newActor = "Suzie Moss"
-			    if newActor == "Prinzzess":
+                if newActor == "Prinzzess":
                     newActor = "Prinzzess Sahara"
-			    if newActor == "Sindy":
+                if newActor == "Sindy":
                     newActor = "Zena Little"
-			    if newActor == "Summer":
+                if newActor == "Summer":
                     newActor = "Summer Brooks"
-			    if newActor == "Taissia":
+                if newActor == "Taissia":
                     newActor = "Taissia Shanti"
-			    if newActor == "Tracy":
+                if newActor == "Tracy":
                     newActor = "Tracy Smile"
-			    if newActor == "Viola":
+                if newActor == "Viola":
                     newActor = "Viola Bailey"
-			    if newActor == "Violette":
+                if newActor == "Violette":
                     newActor = "Violette Pink"
             if metadata.studio == "BangBros":
                 if newActor == "Abril":
@@ -231,7 +227,7 @@ class PhoenixActors:
                 if newActor == "Alektra":
                     newActor = "Alektra Blue"
             if metadata.studio == "EvilAngel":
-			    if newActor == "Connie":
+                if newActor == "Connie":
                     newActor = "Connie Carter"
             if metadata.studio == "LegalPorno":
                 if newActor == "Abby":
@@ -1335,7 +1331,7 @@ class PhoenixActors:
                 if newActor == "Zenia":
                     newActor = "Nadine Greenlaw"
             if metadata.studio == "SexyHub":
-			    if newActor == "Connie":
+                if newActor == "Connie":
                     newActor = "Connie Carter"
             if metadata.studio == "TeamSkeet":
                 if newActor == "Ada S":
@@ -1519,7 +1515,7 @@ class PhoenixActors:
                 if newActor == "Zoi":
                     newActor = "Liona Levi"
             if metadata.studio == "Twistys":
-			    if newActor == "Connie":
+                if newActor == "Connie":
                     newActor = "Connie Carter"
 
             if not skip:
